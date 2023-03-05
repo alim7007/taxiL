@@ -14,9 +14,8 @@ const AboutUs = () => {
             <div className="inner2-story-container">
               <h2>Lefkoşa Taksi Hizmetleri</h2>
               <p>
-                Lefkoşa’da Şehir İçi Ve Şehir Dışı 7/24 Saat Taksi Hizmeti
-                Vermekteyiz. Size Yardımcı Olabilmemiz İçin Bize Ulaşmanız
-                Yeterli Olacaktır.
+                Lefkoşa Taksi Ara En Yakın Taksi 10 Dakikada Konumuna Gelsin +90
+                533 863 94 43 - +90 533 858 79 79
               </p>
             </div>
             {/* <AboutUsImg /> */}
