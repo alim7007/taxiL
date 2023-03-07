@@ -117,7 +117,7 @@ const Navbar = () => {
                 closeMobileMenu("about");
               }}
             >
-              Hakkımız
+              Hakkımızda
             </Link>
           </li>
           <li className="nav-item">
